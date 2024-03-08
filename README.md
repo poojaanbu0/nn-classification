@@ -255,7 +255,7 @@ print(le.inverse_transform(x_single_prediction))
 ![image](https://github.com/poojaanbu0/nn-classification/assets/119390329/febead3d-eead-4b14-9d9e-3525cc0a12b5)
 
 ### New Sample Data Prediction
-![Uploading image.png…]()
+![image](https://github.com/poojaanbu0/nn-classification/assets/119390329/88d11da1-c27e-4348-a59c-4bb0eb4c724e)
 
 
 ## RESULT:
